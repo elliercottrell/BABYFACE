@@ -1,0 +1,26 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #faf9f6;
+  border: solid 5px black;
+  width: 100%;
+  height: 100vh;
+}
+
+.demo {
+  font-family: "Bebas Neue", cursive;
+  font-size: 50px;
+  padding: 0;
+}
+
+p {
+  margin: 20px;
+}
+
+.lol {
+  color: #fb6562;
+  font-family: "Bebas Neue", cursive;
+  font-weight: 100;
+  font-size: 75px;
+  margin: 20px;
+}
